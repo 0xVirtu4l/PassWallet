@@ -1,0 +1,5 @@
+Website | Email                    | Password 
+
+amazon | example@mail.com | test1234
+jumia | test@mail.com | 0s*cG9lG!Li$ffffffff
+test | test2@mail.com | dsaoind
